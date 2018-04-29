@@ -17,10 +17,10 @@
             <key>metadata</key>  
             <dict>  
                  <key>bundle-identifier</key>  
-                <string>io.dcloud.HBuilder</string> 
+                <string>HBuilder</string> 
                 
                 <key>bundle-version</key>  
-                <string>1.0.0</string>  
+                <string>9.0.2</string>  
                 
                 <key>kind</key>  
                 <string>software</string>  
