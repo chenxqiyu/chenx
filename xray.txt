@@ -1,0 +1,12 @@
+/usr/local/etc/xray
+
+
+sudo timedatectl set-timezone Asia/Hong_Kong
+sudo apt install unzip
+sudo wget https://github.com/chenxqiyu/chenx/raw/master/xray.zip
+sudo unzip xray.zip
+sudo chmod a+x xray.sh
+sudo ./xray.sh
+sudo cp -rf ~/xray/* /usr/local/etc/xray
+sudo ./xray.sh
+
