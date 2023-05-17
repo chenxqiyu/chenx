@@ -102,7 +102,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "35.220.229.",
+            "address": "ip地址",
             "port": 443,
             "users": [
               {
